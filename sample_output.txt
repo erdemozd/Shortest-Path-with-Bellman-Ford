@@ -1,0 +1,2 @@
+Path: Prague -> Helsinki -> Tokyo -> NewYork -> London
+Distance: 26065 km
